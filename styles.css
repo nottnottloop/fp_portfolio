@@ -1,0 +1,52 @@
+img {
+	 float: right;
+	 padding-left: 5px;
+	 width: 50%;
+	 height: 30%;
+}
+
+.body-margin{
+	margin: 5px;
+}
+
+nav{
+	text-align: center;
+}
+
+.aa:link{
+	text-decoration: none;
+}
+
+.aa:hover{
+	transition-duration: 900ms;
+}
+
+.aa{
+	padding: 0px 25px;
+	display: inline-block;
+}
+
+footer{
+	text-align: center;
+	margin-top: auto;
+}
+
+body {
+	background-color: black;
+	color: white;
+	display: flex;
+	min-height:100vh;
+	flex-direction: column;
+}
+
+.aa {
+	color: white;
+}
+
+.green {
+	color: lime;
+}
+
+a {
+	color: white;
+}
